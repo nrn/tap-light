@@ -1,0 +1,19 @@
+{
+  "name": "tap-light",
+  "version": "1.0.0",
+  "description": "Very light test framework that outputs tap.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nrn/tap-light.git"
+  },
+  "author": "Nick Niemeir <nick.niemeir@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nrn/tap-light/issues"
+  },
+  "homepage": "https://github.com/nrn/tap-light#readme"
+}
